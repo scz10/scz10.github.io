@@ -16,6 +16,7 @@ key: python-telegram-bot-1
 In version 12.0b1 [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) a wrapper for telegram bot, release persistence mechanism to telegram.ext package.
 
 <!--more-->
+---
 
 ## What data can become persistent?
 This feature is designed to make **chat_data**, **user_data** and **ConversationHandler** state become persistent. 
