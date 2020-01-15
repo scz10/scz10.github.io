@@ -15,6 +15,8 @@ key: python-telegram-bot-1
 # Background
 In version 12.0b1 [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) a wrapper for telegram bot, release persistence mechanism to telegram.ext package.
 
+<!--more-->
+
 ## What data can become persistent?
 This feature is designed to make **chat_data**, **user_data** and **ConversationHandler** state become persistent. 
 
@@ -37,7 +39,7 @@ Today im gonna build a simple bot that will do [CRUD](https://en.wikipedia.org/w
 ### Create new bot
 First thing first we need a bot. to register a bot you should go to the [BotFather](https://telegram.me/BotFather) ( login your normal telegram account ). and then simply send command **/newbot** . and the you will be asked what bot name and username for your bot. after that you will get token for your bot.
 
- ![bot-created](post_data/1/bot-created.png){:.border.rounded}
+ ![bot-created](https://chmy.xyz/post_data/1/bot-created.png){:.border.rounded}
 
 ### Install python virtual environment (optional)
 
@@ -111,7 +113,7 @@ def create(update: Update, context: CallbackContext):
     parse_db(context)["account"] = text.split()
     update.message.reply_text('Account data saved 💾')
 ```
-![create-func](post_data/1/create-img.png){:.border.rounded}
+![create-func](https://chmy.xyz/post_data/1/create-img.png){:.border.rounded}
 
 #### The /read function
 ```python
@@ -121,7 +123,7 @@ def read(update: Update, context: CallbackContext):
     else:
         update.message.reply_text('Account data not exist, please add')
 ```
-![read-func](post_data/1/read-img.png){:.border.rounded}
+![read-func](https://chmy.xyz/post_data/1/read-img.png){:.border.rounded}
 
 #### The /update function
 ```python
@@ -131,7 +133,7 @@ def update(update: Update, context: CallbackContext):
     parse_db(context)["account"] = text.split()
     update.message.reply_text('Account data updated 💾')
 ```
-![update-func](post_data/1/update-read-img.png){:.border.rounded}
+![update-func](https://chmy.xyz/post_data/1/update-read-img.png){:.border.rounded}
 
 #### The /delete function
 ```python
@@ -139,7 +141,7 @@ def delete(update: Update, context: CallbackContext):
     parse_db(context).pop("account")
     update.message.reply_text('Account data removed 💾')
 ```
-![delete-func](post_data/1/delete-read-img.png){:.border.rounded}
+![delete-func](https://chmy.xyz/post_data/1/delete-read-img.png){:.border.rounded}
 
 #### The Main function
 ```python
