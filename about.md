@@ -24,7 +24,6 @@ Writer passion in
 
 * Automated thing
 * Cryptography
-* Cyber security
 * Serial programming
 
 On-Learning
@@ -34,5 +33,6 @@ On-Learning
 
 Contact me 
 Email     : [email me](mailto:cahyamulyadi@outlook.com)
+
 Whatsapp  : [message me](https://wa.me/6281288724734)
 
