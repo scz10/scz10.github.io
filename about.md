@@ -18,8 +18,21 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+Personal blog to document my programming activity
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+Writer passion in
+
+* Automated thing
+* Cryptography
+* Cyber security
+* Serial programming
+
+On-Learning
+
+* Machine Learning
+* Computer Vision
+
+Contact me 
+Email     : [email me](mailto:cahyamulyadi@outlook.com)
+Whatsapp  : [message me](https://wa.me/6281288724734)
+
