@@ -20,20 +20,10 @@ key: page-about
 
 Personal blog to document my programming activity
 
-Writer passion in
-
-* Automated thing
-* Cryptography
-* Serial programming
-
-On-Learning
-
-* Machine Learning
-* Computer Vision
 
 Contact me 
 
 Email     : [email me](mailto:cahyamulyadi@outlook.com)
 
-Whatsapp  : [message me](https://wa.me/6281288724734)
+
 
