@@ -21,9 +21,7 @@ key: page-about
 Personal blog to document my programming activity
 
 
-Contact me 
-
-Email     : [email me](mailto:cahyamulyadi@outlook.com)
+Contact me by email : [here](mailto:cahyamulyadi@outlook.com)
 
 
 
