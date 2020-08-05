@@ -14,6 +14,9 @@ key: game-hacking-1
 Applications uses RAM / Memory to store data variables - You can access and manipulate these data in realtime.
 So how does it work? To understand this better here's a quick summary of how Apps / RAM works:
 
+<!--more-->
+---
+
 ![diagram1](https://chmy.xyz/post_data/2/diagram1.png){:.border.rounded}
 
 - Apps need RAM / Memory to run. Amount of RAM is allocated by Operating System (OS).

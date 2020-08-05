@@ -11,7 +11,7 @@ article_header:
 tags: [game-hacking,c++]
 key: game-hacking-2
 ---
-In my last previous post I have write about how to memory scanning using Cheat Engine, in thist post i will show you how to Read and Write process memory using C++ Function.
+# In my last previous post I have write about how to memory scanning using Cheat Engine, in thist post i will show you how to Read and Write process memory using C++ Function.
 <!--more-->
 ---
 # Read before start reading this article: This tutorial is for educational purposes only. the author(s) has no intention to use the knowledge for any undoings, please make sure that you are not violating the EULA/TOS of the specific game/application.
