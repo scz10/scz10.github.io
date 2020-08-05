@@ -14,6 +14,8 @@ key: game-hacking-2
 In my last previous post I have write about how to memory scanning using Cheat Engine, in thist post i will show you how to Read and Write process memory using C++ Function.
 <!--more-->
 ---
+# Read before start reading this article: This tutorial is for educational purposes only. the author(s) has no intention to use the knowledge for any undoings, please make sure that you are not violating the EULA/TOS of the specific game/application.
+
 ## Getting started
 So what kind function is that?
 
@@ -230,7 +232,15 @@ int main()
     system("Pause");
 }
 ```
-And then now build our progream by pressing Ctrl + B, then open the console using Run As Admin. and then lets check our console program. it will update every 100ms to show value from address we add before, here the video
+And then now build our progream by pressing Ctrl + B, then open the console using Run As Admin. and then lets check our console program. it will update every 100ms to show value from address we add before, 
+
+Console app show 4, same as the monster show in Radar
+![SS1](https://chmy.xyz/post_data/3/Screenshot_1.png){:.border.rounded}
+
+Console app update to 2, because i move my character. so the Radar also change
+![SS2](https://chmy.xyz/post_data/3/Screenshot_2.png){:.border.rounded}
+
+here the video for another example, this ReadProcessMemory from my character current target
 
 <div>{%- include extensions/youtube.html id='ESQRAxKnKH8' -%}</div>
 
