@@ -151,5 +151,6 @@ So this was our pointer "RF_Online.bin"+01F3B6E0 + 170, lets add the pointer man
 ![Screenshot15](https://chmy.xyz/post_data/2/Screenshot_15.png){:.border.rounded}
 
 
-Then tadaaa, its done. save your pointer. so next time you do need to do memory scanning from the first time. just add it manually
-Next post i will show you how to Read and Write to the memory address in C++, see you
+Then tadaaa, its done. save your pointer. so next time you dont need to do memory scanning from the first time like we do before. 
+with this pointer we can just add it manually.
+Next post i will show you how to Read and Write to the memory address in C++.
