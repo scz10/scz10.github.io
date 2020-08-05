@@ -26,7 +26,6 @@ Say you've started a Game application on your PC. OS has allocated a chunk of me
 ![diagram1](https://chmy.xyz/post_data/2/diagram2.png){:.border.rounded}
 
 Source : [Zoar](https://zoar.io/insight/article6.html)
-<!--more-->
 ---
 ## Getting Started
 So today I will demonstrate how to-do that. I will split this tutorial into 2 category. the first one is Known-value memory scanning and Unknown-value memory scanning. the main difference is you use the method based data what you got. e.g if you dont know what the value for specific action or state you can use the second one, else use the first one.
