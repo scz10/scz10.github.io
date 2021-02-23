@@ -41,7 +41,7 @@ here this we need to prepare:
 3. Some Basic Programming
 
 For Visual Studio, you can download that in Microsoft site, I use the community version.
-For tutorial how to search a pointer for an Address you can see my tutorial in my previous post or click here => [Game Hacking - Using Cheat Engine to-do Memory Scanning](https://chmy.xyz/game-hacking-using-cheat-engine/)
+For tutorial how to search a pointer for an Address you can see my tutorial in my previous post or click here => [Game Hacking - Using Cheat Engine to-do Memory Scanning](https://chy.my.id/game-hacking-using-cheat-engine/)
 
 Alright lets go.. 
 
@@ -235,10 +235,10 @@ int main()
 And then now build our progream by pressing Ctrl + B, then open the console using Run As Admin. and then lets check our console program. it will update every 100ms to show value from address we add before, 
 
 Console app show 4, same as the monster show in Radar
-![SS1](https://chmy.xyz/post_data/3/Screenshot_1.png){:.border.rounded}
+![SS1](https://chy.my.id/post_data/3/Screenshot_1.png){:.border.rounded}
 
 Console app update to 2, because i move my character. so the Radar also change
-![SS2](https://chmy.xyz/post_data/3/Screenshot_2.png){:.border.rounded}
+![SS2](https://chy.my.id/post_data/3/Screenshot_2.png){:.border.rounded}
 
 here the video for another example, this ReadProcessMemory from my character current target
 
