@@ -2,6 +2,7 @@
 title: Using Cheat Engine to-do Memory Scanning
 redirect_from:
   - /game-hacking-using-cheat-engine
+  - /game-hacking-using-cheat-engine/
 mode: immersive
 header:
   theme: dark
