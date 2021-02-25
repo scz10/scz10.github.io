@@ -1,5 +1,7 @@
 ---
 title: C++ ReadProcessMemory and WriteProcessMemory
+redirect_from:
+  - /game-hacking-read-write-process-memory
 mode: immersive
 header:
   theme: dark
