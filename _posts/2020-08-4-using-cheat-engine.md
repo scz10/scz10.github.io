@@ -1,5 +1,5 @@
 ---
-title: Game Hacking - Using Cheat Engine to-do Memory Scanning
+title: Using Cheat Engine to-do Memory Scanning
 mode: immersive
 header:
   theme: dark
@@ -8,8 +8,8 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: false
-tags: [game-hacking,memory-scanning]
-key: game-hacking-1
+tags: [memory-scanning]
+key: Using-Cheat-Engine-to-do-Memory-Scanning
 ---
 Applications uses RAM / Memory to store data variables - You can access and manipulate these data in realtime.
 So how does it work? To understand this better here's a quick summary of how Apps / RAM works:

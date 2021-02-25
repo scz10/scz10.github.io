@@ -1,5 +1,5 @@
 ---
-title: Game Hacking - C++ ReadProcessMemory and WriteProcessMemory
+title: C++ ReadProcessMemory and WriteProcessMemory
 mode: immersive
 header:
   theme: dark
@@ -8,8 +8,8 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: false
-tags: [game-hacking,c++]
-key: game-hacking-2
+tags: [c++]
+key: read-write-memory
 ---
 # In my last previous post I have write about how to memory scanning using Cheat Engine, in thist post i will show you how to Read and Write process memory using C++ Function.
 <!--more-->
